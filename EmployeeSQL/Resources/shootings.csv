@@ -1,0 +1,20 @@
+CREATE TABLE state_info (
+	"State" CHAR(2) PRIMARY KEY, 
+    "Population" BIGINT   NOT NULL ,
+    "Population Black" BIGINT   NOT NULL,
+    "Population White" BIGINT   NOT NULL,
+    "Population Asian" BIGINT   NOT NULL,
+    "Population Hispanic" BIGINT   NOT NULL,
+    "Population Mixed Race" BIGINT   NOT NULL,
+    "Poverty Count" BIGINT   NOT NULL,
+	"Poverty Rate" FLOAT,
+	"Total General Expenditure" BIGINT,
+	"Education Expediture" BIGINT,
+	"Public Welfare Expenditure" BIGINT,
+	"Hospitals Expenditure" BIGINT,
+	"Health Expenditure" BIGINT,
+	"Highways Expenditure" BIGINT,
+	"Police Protection Expenditure" BIGINT,
+	"Correction Expenditure" BIGINT,
+	"Natural Resources Expenditure" BIGINT
+	)
