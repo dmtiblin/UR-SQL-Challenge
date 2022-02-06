@@ -19,7 +19,7 @@ Note: You may hear the term "Data Modeling" in place of "Data Engineering," but 
 
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
-![model](EmployeeSQL/EmployeeSQL ERD model.png)
+![model](EmployeeSQL/EmployeeSQL_ERD_model.png)
 
 #### Data Engineering
 
