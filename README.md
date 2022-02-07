@@ -19,7 +19,7 @@ Note: You may hear the term "Data Modeling" in place of "Data Engineering," but 
 
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
-![model](EmployeeSQL/EmployeeSQL_ERD_model.png)
+![model](Output_Images/EmployeeSQL_ERD_model.png)
 
 #### Data Engineering
 
@@ -61,8 +61,10 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
   * If using a password, do not upload your password to your GitHub repository.
 
 2. Create a histogram to visualize the most common salary ranges for employees.
+  * ![histogram](Output_Images/salary_freq_histogram.png)
 
 3. Create a bar chart of average salary by title.
+  * ![bar](Output_Images/salary_by_title_bar.png)
 
 ## Epilogue
 
